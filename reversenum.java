@@ -1,3 +1,4 @@
+// reverse the number//
 public class reversenum {
     public static int revnum(int n){
        int ans =0;
